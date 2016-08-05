@@ -1,0 +1,1 @@
+{"Header":{"Type":"TXN","Ver":"2.0"},"Instruction":{"Header":{"Time":"2016-02-18T00:00:28.941+0500","Tid":470456,"Fid":56281,"Uid":873,"Sid":1500000117512,"User":"ID:c.e.e.e.p.t.PeriodicFeeServiceBean/SERVICE","RealUser":"ID:c.e.e.e.p.t.PeriodicFeeServiceBean/SERVICE","Context":"internal"}},"Status":{"Code":"CREATED"}}

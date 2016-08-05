@@ -1,0 +1,1 @@
+{"Header":{"Type":"TXN","Ver":"2.0"},"Instruction":{"Header":{"Time":"2016-02-12T15:26:29.735+0500","Tid":398199,"Fid":54286,"Uid":33,"Sid":1500000110291,"User":"ID:bilal/ADMIN","RealUser":"ID:bilal/ADMIN","Context":"http-cc"}},"Status":{"Code":"CREATED"}}

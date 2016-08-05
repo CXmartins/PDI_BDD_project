@@ -1,0 +1,1 @@
+{"Header":{"Type":"TXN","Ver":"2.0"},"Instruction":{"Header":{"Time":"2016-02-07T17:57:56.180+0500","Tid":274732,"Fid":53255,"Uid":19,"Sid":1500000099538,"User":"ID:FinancialTransactionService/SERVICE","RealUser":"ID:FinancialTransactionService/SERVICE","Records":2,"Context":"internal"}},"Status":{"Code":"COMMITTED"}}

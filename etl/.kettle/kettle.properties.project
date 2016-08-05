@@ -1,0 +1,50 @@
+#######################  DATABASE CONNECTIONS VARIABLES #######################
+
+CONTROL_HOST=
+CONTROL_PORT=
+CONTROL_DB=control
+CONTROL_USER=root
+CONTROL_PASSWORD=
+CONTROL_TABLE=logs
+
+DW_HOST=
+DW_DB=
+DW_PORT=
+DW_USER=
+DW_PASSWORD=
+
+
+DEFAULT_HOST=
+DEFAULT_DB=
+DEFAULT_PORT=
+DEFAULT_USER=
+DEFAULT_PASSWORD=
+
+STAGING_HOST=
+STAGING_DB=
+STAGING_PORT=
+STAGING_USER=
+STAGING_PASSWORD=
+
+DW_RENT=rent
+DW_STDEV=stdev
+STAGING_TABLE=fund_values
+STAGING_NEW=fund_values_new
+STAGING_OLD=fund_values_old
+STAGING_NEW_FILE =/user/hive/warehouse/staging.db/fund_values_new/fund_values_new
+
+EMAIL_HOST=black
+EMAIL_PORT=25
+EMAIL_USER=
+EMAIL_PASS=
+EMAIL_TO=
+EMAIL_FROM=noreply@xpand-it.com
+
+EMAIL_SUBJECT=Erro no processo INFOFUNDOS
+EMAIL_FAIL_MESSAGE=O processo não terminou correctamente, mais informações no ficheiro de log em anexo.
+####################### BUSINESS PARAMETERS #######################
+
+STDEV_MAXWEEKS=260
+WEBSERVICE_CLIENT=APPCXG
+WEBSERVICE_CONSUMER=APPCXG
+WEBSERVICE_URL=http://maestroifg.cgd.pt/InfoGest.CCH.maestro?WSDL

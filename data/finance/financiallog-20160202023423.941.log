@@ -1,0 +1,2 @@
+{"Header":{"Type":"TXN","Ver":"2.0"},"Instruction":{"Header":{"Time":"2016-02-02T02:34:31.741+0500","Tid":223983,"Fid":52629,"Uid":10,"Sid":1500000094337,"User":"ID:FinancialTransactionService/SERVICE","RealUser":"ID:FinancialTransactionService/SERVICE","Records":2,"Context":"internal"}},"Status":{"Code":"ROLLEDBACK"}}
+{"Header":{"Type":"TXN","Ver":"2.0"},"Instruction":{"Header":{"Time":"2016-02-02T03:07:01.370+0500","Tid":223988,"Fid":52630,"Uid":11,"Sid":1500000094400,"User":"ID:60079/MM","RealUser":"ID:60079/MM","Context":"http-nam"}},"Status":{"Code":"CREATED"}}
