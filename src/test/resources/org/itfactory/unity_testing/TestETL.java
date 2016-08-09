@@ -1,4 +1,4 @@
-package org.itfactory.unity_testing; /**
+package test.resources.org.itfactory.unity_testing; /**
  * Created by carlos on 8/4/16.
  */
 
@@ -7,7 +7,6 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.Collection;
 
-import org.itfactory.unity_testing.FileSearch;
 import org.junit.Test;
 import org.junit.runners.Parameterized;
 import org.junit.runner.RunWith;

@@ -1,4 +1,4 @@
-package org.itfactory.unity_testing;
+package test.resources.org.itfactory.unity_testing;
 
 import org.junit.runner.JUnitCore;
 import org.junit.runner.Result;
