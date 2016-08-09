@@ -2,4 +2,4 @@ KETTLE_JAVA_HOME=/usr/lib/jvm/java-1.8.0-openjdk-amd64
 KETTLE_JVM_MEM=4048
 KETTLE_LOG_LEVEL=Basic
 KETTLE_DIR=/home/carlos/projects/pentaho/pentaho_6_1_0/data-integration
-KETTLE_HOME=~/projects/code/hadoop_test/etl
+KETTLE_HOME=~/projects/code/unity_test/etl
