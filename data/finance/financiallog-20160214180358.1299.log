@@ -1,1 +1,0 @@
-{"Header":{"Type":"TXN","Ver":"2.0"},"Instruction":{"Header":{"Time":"2016-02-14T18:56:57.543+0500","Tid":408061,"Fid":53506,"Uid":32,"Sid":1500000111422,"User":"ID:FinancialTransactionService/SERVICE","RealUser":"ID:FinancialTransactionService/SERVICE","Records":3,"Context":"internal"}},"Status":{"Code":"TIMEDOUT"}}

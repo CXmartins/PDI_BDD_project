@@ -1,1 +1,0 @@
-{"Header":{"Type":"TXN","Ver":"2.0"},"Instruction":{"Header":{"Time":"2016-02-01T20:08:26.063+0500","Tid":222819,"Fid":52598,"Uid":5,"Sid":1500000094047,"User":"ID:30017/MM","RealUser":"ID:30017/MM","Context":"http-magicbox"}},"Status":{"Code":"CREATED"}}

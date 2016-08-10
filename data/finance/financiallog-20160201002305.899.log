@@ -1,2 +1,0 @@
-{"Header":{"Type":"TXN","Ver":"2.0"},"Instruction":{"Header":{"Time":"2016-02-01T00:23:05.763+0500","Tid":210397,"Fid":52466,"Uid":77,"Sid":1500000092536,"User":"ID:FinancialTransactionService/SERVICE","RealUser":"ID:FinancialTransactionService/SERVICE","Records":2,"Context":"internal"}},"Status":{"Code":"COMMITTED"}}
-{"Header":{"Type":"TXN","Ver":"2.0"},"Instruction":{"Header":{"Time":"2016-02-01T10:14:56.890+0500","Tid":210426,"Fid":52467,"Uid":78,"Sid":1500000092867,"User":"ID:mabid/ADMIN","RealUser":"ID:mabid/ADMIN","Context":"http-cc"}},"Status":{"Code":"CREATED"}}

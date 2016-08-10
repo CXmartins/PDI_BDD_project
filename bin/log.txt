@@ -1,0 +1,30 @@
+Overriding KETTLE default JVM: /usr/lib/jvm/java-1.8.0-openjdk-amd64
+Overriding KETTLE default JVM mem size: 4048
+OpenJDK 64-Bit Server VM warning: ignoring option MaxPermSize=256m; support was removed in 8.0
+12:09:36,758 INFO  [KarafInstance] 
+*******************************************************************************
+*** Karaf Instance Number: 1 at /home/carlos/projects/pentaho/pentaho_6_1_0 ***
+***   /data-integration/./system/karaf/caches/default/data-2                ***
+*** Karaf Port:8802                                                         ***
+*** OSGI Service Port:9051                                                  ***
+*******************************************************************************
+12:09:36,758 INFO  [KarafBoot] Checking to see if org.pentaho.clean.karaf.cache is enabled
+Aug 10, 2016 12:09:37 PM org.apache.karaf.main.Main$KarafLockCallback lockAquired
+INFO: Lock acquired. Setting startlevel to 100
+2016/08/10 12:09:37 - Kitchen - Logging is at level : Basic
+2016/08/10 12:09:37 - Kitchen - Start of run.
+2016/08/10 12:09:37 - cfgbuilder - Warning: The configuration parameter [org] is not supported by the default configuration builder for scheme: sftp
+Aug 10, 2016 12:09:39 PM org.pentaho.caching.impl.PentahoCacheManagerFactory$RegistrationHandler$1 onSuccess
+INFO: New Caching Service registered
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/home/carlos/projects/pentaho/pentaho_6_1_0/data-integration/launcher/../lib/slf4j-log4j12-1.7.7.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/home/carlos/projects/pentaho/pentaho_6_1_0/data-integration/plugins/pentaho-big-data-plugin/lib/slf4j-log4j12-1.7.3.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.impl.Log4jLoggerFactory]
+2016/08/10 12:09:40 - simple_unit_test - Start of job execution
+2016/08/10 12:09:40 - simple_unit_test - Starting entry [Success]
+2016/08/10 12:09:40 - simple_unit_test - Finished job entry [Success] (result=[true])
+2016/08/10 12:09:40 - simple_unit_test - Job execution finished
+2016/08/10 12:09:40 - Kitchen - Finished!
+2016/08/10 12:09:40 - Kitchen - Start=2016/08/10 12:09:37.291, Stop=2016/08/10 12:09:40.274
+2016/08/10 12:09:40 - Kitchen - Processing ended after 2 seconds.

@@ -1,1 +1,0 @@
-{"Header":{"Type":"TXN","Ver":"2.0"},"Instruction":{"Header":{"Time":"2016-02-12T23:02:02.068+0500","Tid":404947,"Fid":54330,"Uid":1,"Sid":1500000111120,"User":"ID:60354/MM","RealUser":"ID:60354/MM","Context":"http-pointofsale"}},"Status":{"Code":"CREATED"}}
