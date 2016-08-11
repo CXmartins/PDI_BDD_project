@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/pdi_unity_test.iml" filepath="$PROJECT_DIR$/pdi_unity_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unity_testing.iml" filepath="$PROJECT_DIR$/unity_testing.iml" />
     </modules>
   </component>
 </project>

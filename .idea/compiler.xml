@@ -22,11 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="pdi_unity_test" />
+        <module name="unity_testing" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="pdi_unity_test" target="1.8" />
+      <module name="unity_testing" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
