@@ -191,7 +191,7 @@
       <yloc>288</yloc>
       </entry>
     <entry>
-      <name>validations</name>
+      <name>valid</name>
       <description/>
       <type>JOB</type>
       <specification_method>filename</specification_method>
@@ -261,7 +261,7 @@
     </hop>
     <hop>
       <from>mapping</from>
-      <to>validations</to>
+      <to>valid</to>
       <from_nr>0</from_nr>
       <to_nr>0</to_nr>
       <enabled>Y</enabled>
@@ -269,7 +269,7 @@
       <unconditional>N</unconditional>
     </hop>
     <hop>
-      <from>validations</from>
+      <from>valid</from>
       <to>success- drop tables</to>
       <from_nr>0</from_nr>
       <to_nr>0</to_nr>
@@ -278,7 +278,7 @@
       <unconditional>N</unconditional>
     </hop>
     <hop>
-      <from>validations</from>
+      <from>valid</from>
       <to>fail - drop tables</to>
       <from_nr>0</from_nr>
       <to_nr>0</to_nr>
